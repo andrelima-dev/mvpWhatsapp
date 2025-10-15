@@ -1,2 +1,0 @@
-0000000000000000000000000000000000000000 81baa9d1d0c39a7091e40d57e488c680b6e6dd8d André Lima <154025235+andregoat7@users.noreply.github.com> 1760300336 -0300	commit (initial): backup antes de restaurar
-81baa9d1d0c39a7091e40d57e488c680b6e6dd8d c603ec7ec2f23c724a7899d3eca19daedcef6c37 André Lima <154025235+andregoat7@users.noreply.github.com> 1760492739 -0300	commit: chore(api): use SQLite for local dev; apply migrations; serialize tags
